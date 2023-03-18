@@ -1,0 +1,61 @@
+h2, h3, h5{
+    font-family: 'itim', cursive;
+    color: #86776e;
+}
+
+p{
+    font-family: 'roboto condensed', sans-serif;
+}
+
+/* nav */
+.name a{
+    color: orange;
+    text-align: center;
+    text-decoration: none;
+}
+
+.name a:hover{
+    color: #86776e;
+}
+
+nav{
+    width: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 4%;
+}
+
+nav{
+    display: block;
+    float: center;
+}
+
+nav ul{
+    list-style-type: none;
+    width: 100%;
+
+}
+
+nav li{
+    display: inline;
+    margin: 20px;
+
+}
+
+nav a{
+    font-family: 'itim', cursive;
+    color: black;
+    text-decoration: none;
+    padding: 10px;
+}
+
+nav a:hover {
+    color: orange;
+}
+
+/* footer */
+#footer{
+    background-color: #a4968d;
+    color: white;
+}
